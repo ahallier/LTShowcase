@@ -19,7 +19,7 @@ public class PhotoAlbumTool {
 
         PhotoAlbumTool albumTool = new PhotoAlbumTool();
         try{
-            if(args[0].equals("interactive")){
+            if(args.length > 0 && args[0].equals("interactive")){
                 try (Scanner scanner =new Scanner(System.in)) {
                     while (true) {
                         System.out.println("Enter your album Number");
