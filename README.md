@@ -29,7 +29,7 @@ Command-line based tool that fetches photo album data from provided endpoint and
      ``` 
      java -jar LTShowcase.jar <album number>
      ```
-  - Get a list of album and photo, give parameters separated by a space 
+  - Get a list of albums and photos, give parameters separated by a space 
      ```
      java -jar LTShowcase.jar <album_one> <album_two> ...
      ```
