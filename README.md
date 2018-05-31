@@ -1,7 +1,7 @@
 # LTShowcase
 
 <b>Description:</b>
-Commandline based tool that fetches photo album data from provided enpoint and formats and displays results to user.
+Command-line based tool that fetches photo album data from provided endpoint and formats and displays results to user.
 
 <b>Example output:</b>
 ```
@@ -13,7 +13,7 @@ Commandline based tool that fetches photo album data from provided enpoint and f
 [67] voluptas cumque velit quos repudiandae ab numquam"
 ```
 
-<b>Dependancies:</b>
+<b>Dependencies:</b>
   -Java8
   -HttpClient
   -JUnit 
